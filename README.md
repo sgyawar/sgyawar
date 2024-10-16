@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sgyawar
+- 👋 Hi, I’m Shivansh
 - 👀 I’m interested in backend devlopment and scripting.
-- 🌱 I’m currently learning golang.
+- 🌱 I’m currently learning Rust.
 - 💞️ I’m looking to collaborate on golang and java projects.
 - 📫 You can reach me on shivansh.gyawar@gmail.com 
 
